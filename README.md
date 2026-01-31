@@ -11,6 +11,8 @@
 
 *MENTOR*:NEELA SANTOSH
 
+*output*:<img width="1424" height="822" alt="Image" src="https://github.com/user-attachments/assets/7c4b62a3-50f3-47e0-acb2-80682bf02636" />
+
 *DESCRIPTION OF THE PROJECT*:The Interactive Quiz Application is a frontend-based web application designed to provide an engaging and user-friendly platform for conducting online quizzes. This application allows users to answer multiple-choice questions, receive instant feedback, track their progress, and view their final score at the end of the quiz. The primary goal of this project is to demonstrate the effective use of core frontend technologies such as HTML, CSS, and JavaScript while maintaining proper file structure and connectivity.
 
 This application runs completely on the client side and does not require any backend or database. All quiz-related data and logic are handled using JavaScript, making the application lightweight, fast, and easy to deploy. It is ideal for educational purposes, practice tests, online assessments, and frontend development learning.
